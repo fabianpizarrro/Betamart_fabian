@@ -1,0 +1,11 @@
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\obj\Debug\BetaMartQ.Form1.resources
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\obj\Debug\BetaMartQ.Properties.Resources.resources
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\obj\Debug\BetaMartQ.csproj.GenerateResource.cache
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\obj\Debug\BetaMartQ.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\bin\Debug\betamartdb.accdb
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\bin\Debug\BetaMartQ.exe.config
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\bin\Debug\BetaMartQ.exe
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\bin\Debug\BetaMartQ.pdb
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\obj\Debug\BetaMartQ.exe
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\obj\Debug\BetaMartQ.pdb
+C:\Users\FABIAN\source\repos\BetaMartQ\BetaMartQ\obj\Debug\BetaMartQ.csproj.AssemblyReference.cache
